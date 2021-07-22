@@ -1,0 +1,23 @@
+Why would PORTFOLIO not be #1 in the hierarchy?
+
+It IS larger and you WANT to read it first, since it’s the first word in the title of the poster.
+But remember: the order of reading does not always directly match the visual hierarchy.
+The word PORTFOLIO, though it is large in scale, is light in value. The rage of values go from middle gray to white.
+This is a lesser or smaller range of value contrast than DAY and the cluster of blobs to the left. 
+
+The same can be said of CALARTS in the gray square.
+
+The values in that unit (CALARTS lettering + square) range from middle gray to white,
+which is a smaller range of value compared to both the blob cluster and the 99. 
+
+The word DAY sits inside a little pocket of negative space. The letterforms are solid and dark in value, which creates a high contrast to the white background.
+The outline of the letterforms and the countershapes inside them give us reason to linger here.
+DAY is not the most important word from a content perspective, but its proximity to PORTFOLIO allows us to put this content together quickly.
+
+To the left of DAY, the cluster of solid bubbles or blobs contain the time and location information for the event.
+These solid, dark-value shapes create high contrast to the white background. Because they are clustered together,
+they read as a mass or as a single compositional unit. 
+
+Finally, the 99 in a bubble blob to the right of DAY brings our eye over to the right side of the poster.
+Despite its small scale, the 99 is relatively high in the hierarchy because of the contrast between its dark value,
+solid outline and the large amount of white negative space surrounding it.
