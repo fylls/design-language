@@ -1,0 +1,5 @@
+Framework is designed to help you assign a quantitative value, from strong to fair to weak, within one of a set of categories,
+and then rationalize your rating based on evidence within the work itself.
+
+You'll get your first opportunity to practice using the framework in the assessments at the end of this week,
+and will use it in the final graded assessment at the end of this course. 
