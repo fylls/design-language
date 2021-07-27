@@ -5,7 +5,7 @@
 <br>
 
 Course offered by California Institute of the Arts on Coursera
-<br>
+  
 https://www.coursera.org/learn/design-language
 
 <br>
