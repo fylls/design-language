@@ -4,7 +4,7 @@
 
 <br>
 
-Course offered by California Institute of the Arts on Coursera
+Course offered by California Institute of the Arts (Calarts) on Coursera
   
 https://www.coursera.org/learn/design-language
 
